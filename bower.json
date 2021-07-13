@@ -1,0 +1,24 @@
+{
+  "name": "Tu-Kitchen",
+  "homepage": "https://github.com/CC25MC/Tu-Kitchen",
+  "authors": [
+    "Cesar Casadiego"
+  ],
+  "description": "Frontend Frontend for Tu kitchen",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
